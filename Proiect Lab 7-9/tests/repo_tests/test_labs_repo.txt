@@ -1,0 +1,5 @@
+101;Algoritm Nr Prim;22.11.2021
+202;Algoritm Oglindit;10.12.2021
+301;Proiect Cheltuieli cu stergeri si adaugari;19.01.2022
+305;Alg de sortare;27.03.2022;
+404;Alg de backtracking;10.05.2022

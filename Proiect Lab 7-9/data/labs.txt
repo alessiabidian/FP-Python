@@ -1,0 +1,27 @@
+101
+Algoritm Nr Prim
+22.11.2021
+202
+Algoritm Oglindit
+10.12.2021
+301
+Proiect Cheltuieli cu stergeri si adaugari
+19.01.2022
+305
+Alg de palindrom
+27.02.2022
+401
+Backtracking
+03.04.2022
+402
+Alg de citire din fisier
+04.04.2022
+501
+Alg de concatenare cuvinte
+12.04.2022
+502
+Proiect liste inlantuite
+20.04.2022
+601
+Proiect cu update si undo liste
+18.05.2022
